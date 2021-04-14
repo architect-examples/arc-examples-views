@@ -2,22 +2,17 @@
   "name": "arc-examples-views",
   "version": "1.0.0",
   "description": "Example arc app to show how to use views in your arc project.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arc-repos/arc-examples-views.git"
+    "url": "git+https://github.com/arc-examples/arc-examples-views.git"
   },
-  "keywords": [],
+  "scripts": {
+    "start": "sandbox"
+  },
   "author": "@dam",
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/arc-repos/arc-examples-views/issues"
-  },
-  "homepage": "https://github.com/arc-repos/arc-examples-views#readme",
   "dependencies": {
-    "@architect/architect": "^4.1.0"
+    "@architect/functions": "^3.13.10",
+    "@architect/sandbox": "latest"
   }
 }

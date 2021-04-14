@@ -1,7 +1,0 @@
-{
-  "name": "arc-views-get-css-000stylesheet",
-  "dependencies": {
-    "@architect/data": "^2.0.8",
-    "@architect/functions": "^1.9.9"
-  }
-}

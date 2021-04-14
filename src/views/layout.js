@@ -7,7 +7,7 @@ module.exports = function Layout (props) {
 <head>
  <meta charset="UTF-8">
  <title>Architect example</title>
- <link rel="stylesheet" href="/css/styles.css">
+ <link rel="stylesheet" href="/_static/index.css">
 </head>
 <body>
  <h1>${heading}</h1>
