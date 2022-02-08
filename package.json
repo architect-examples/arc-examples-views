@@ -12,7 +12,7 @@
   "author": "@dam",
   "license": "Apache-2.0",
   "dependencies": {
-    "@architect/functions": "^4.0.0",
+    "@architect/functions": "^4.1.2",
     "@architect/sandbox": "^4.1.1"
   }
 }
