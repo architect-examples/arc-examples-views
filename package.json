@@ -13,6 +13,6 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@architect/functions": "^4.0.0",
-    "@architect/sandbox": "^4.1.1"
+    "@architect/sandbox": "^5.2.2"
   }
 }
